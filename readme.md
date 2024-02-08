@@ -22,6 +22,9 @@ Este é um projeto de bloco de notas desenvolvido durante o evento Next Level We
 - **sonner**: ^1.4.0
   - Descrição: Uma biblioteca para gerenciar e reproduzir sons no navegador.
 
+- **dom-speech-recognition**: ^0.0.4
+  - Descrição: Pacote para gravação de áudio no navegador.
+
 ## Instalação
 
 1. Clone este repositório: `git clone https://github.com/edukleber100/nome-do-repositorio.git`
